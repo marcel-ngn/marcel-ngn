@@ -1,5 +1,7 @@
-#  whoami:
-Hey there 👋, I'm Marcel.
+# 👤 whoami:
+Hey there 👋, 
+I'm Marcel.
+
 I'm an IAM Engineer at HelloFresh, specializing in Entra ID with a passion for Cloud, Security, and Automation. I love solving IAM and IGA challenges, optimizing security, and building automated solutions to streamline workflows.
 
 
