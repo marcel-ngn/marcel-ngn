@@ -2,7 +2,7 @@
 Hey there 👋, 
 I'm Marcel.
 
-I'm an IAM Engineer at HelloFresh, specializing in Entra ID with a passion for Identity, Security and Automation. I love solving IAM and IGA challenges, optimizing security, and building automated solutions to streamline workflows.
+I'm a Cloud Security Consultant at Skaylink, specializing in MS Azure with a passion for Identity, Security and Automation. I love solving IAM and IGA challenges, optimizing security, and building automated solutions to streamline workflows.
 
 
 # 💻 tech stack:
